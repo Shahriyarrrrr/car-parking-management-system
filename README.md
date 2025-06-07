@@ -23,7 +23,7 @@ A console-based **Car Parking Management System** built with **C# and .NET Frame
 
 1. 🔽 Clone the repository  
    ```
-   git clone https://github.com/yourusername/car-parking-management-system.git
+   git clone https://github.com/Shahriyarrrrr/car-parking-management-system.git
    ```
 
 2. 🧷 Open the project in **Visual Studio**
@@ -70,3 +70,4 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). ✅
+
